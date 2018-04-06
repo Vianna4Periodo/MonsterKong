@@ -22,11 +22,11 @@ MonsterKong.Player.prototype.update = function(){
     this.body.velocity.x = 0;
 
     if(this.cursors.left.isDown){
-        this.body.velocity.x = this.data.player.RUNNING_SPEED;
+        this.body.velocity.x = -this.data.player.RUNNING_SPEED;
         this.scale.setTo(1, 1);
         this.play("walking");
     } else if(this.cursors.right.isDown) {
-        this.body.velocidade.x = - this.data.player.RUNNING_SPEED;
+        this.body.velocity.x = this.data.player.RUNNING_SPEED;
         this.scale.setTo(-1,1);
         this.play("walking");
     } else {

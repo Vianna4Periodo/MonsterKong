@@ -38,7 +38,8 @@ MonsterKong.GameState = {
     },
 
     update: function () {
-
+        this.game.physics.arcade.collide(this.player, this.ground);
+        this.game.physics.arcade.collide(this.player, this.platforms);
     },
 
     createGameSet: function () {

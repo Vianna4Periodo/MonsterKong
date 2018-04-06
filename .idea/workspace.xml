@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb0a683d-927e-4697-acd7-34ad6e20fcae" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/js/prefabs/player.js" afterPath="$PROJECT_DIR$/js/prefabs/Player.js" />
+      <change beforePath="$PROJECT_DIR$/js/prefabs/Player.js" afterPath="$PROJECT_DIR$/js/prefabs/Player.js" />
       <change beforePath="$PROJECT_DIR$/js/states/GameState.js" afterPath="$PROJECT_DIR$/js/states/GameState.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Player.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Player.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/prefabs/Player.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="238">
+              <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -43,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GameState.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GameState.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/states/GameState.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="43" column="32" lean-forward="true" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+            <state relative-caret-position="210">
+              <caret line="41" column="68" lean-forward="false" selection-start-line="41" selection-start-column="68" selection-end-line="41" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -86,8 +84,8 @@
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/prefabs/player.js" />
-        <option value="$PROJECT_DIR$/js/prefabs/Player.js" />
         <option value="$PROJECT_DIR$/js/states/GameState.js" />
+        <option value="$PROJECT_DIR$/js/prefabs/Player.js" />
       </list>
     </option>
   </component>
@@ -272,12 +270,12 @@
       <workItem from="1504627658918" duration="11918000" />
       <workItem from="1522707537137" duration="4754000" />
       <workItem from="1523053704834" duration="1407000" />
-      <workItem from="1523055349191" duration="1563000" />
+      <workItem from="1523055349191" duration="1918000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19642000" />
+    <option name="totallyTimeSpent" value="19997000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -565,18 +563,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/prefabs/Player.js">
+    <entry file="file://$PROJECT_DIR$/js/states/GameState.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="41" column="68" lean-forward="false" selection-start-line="41" selection-start-column="68" selection-end-line="41" selection-end-column="68" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/states/GameState.js">
+    <entry file="file://$PROJECT_DIR$/js/prefabs/Player.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="43" column="32" lean-forward="true" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+        <state relative-caret-position="238">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
           <folding />
         </state>
       </provider>
