@@ -33,6 +33,8 @@ MonsterKong.GameState = {
 
         this.createGameSet();
 
+        this.player = new MonsterKong.Player(this.game, this.levelData, this.cursors);
+        this.game.add.existing(this.player);
     },
 
     update: function () {

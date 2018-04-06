@@ -1,7 +1,7 @@
 var MonsterKong = MonsterKong || {};
 
 MonsterKong.Player = function(game,data,cursors){
-    Player.Sprite.call(this,game,data.player.x,data.player.y,'player',3);
+    Phaser.Sprite.call(this, game, data.player.x, data.player.y, "player", 3);
 
     this.data = data;
     this.cursors = cursors;
